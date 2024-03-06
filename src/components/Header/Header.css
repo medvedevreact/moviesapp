@@ -1,0 +1,13 @@
+.movies-header {
+  background: black;
+  color: white;
+  margin-bottom: 60px;
+  padding: 20px 40px;
+}
+.movie-logo {
+  cursor: pointer;
+  color: white;
+}
+.link-no-underline {
+  text-decoration: none;
+}

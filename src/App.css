@@ -1,0 +1,31 @@
+.simple-wrapper {
+  background: #262a2e;
+  padding-bottom: 50px;
+}
+.container {
+  max-width: 1280px;
+  margin: auto;
+}
+.movies {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-between;
+}
+.pag-buttons {
+  display: flex;
+  gap: 10px;
+  justify-content: center;
+  margin-top: 20px;
+}
+.pag-btn {
+  padding: 8px 12px;
+  background-color: #007bff;
+  color: #fff;
+  border: none;
+  border-radius: 4px;
+  cursor: pointer;
+  margin: 0 5px;
+}
+.active {
+  background: green;
+}

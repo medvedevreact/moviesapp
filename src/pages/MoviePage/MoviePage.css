@@ -1,0 +1,49 @@
+.movie-window-again {
+  display: flex;
+  gap: 50px;
+}
+.movie-window-text {
+  color: white;
+}
+.movie-window-img {
+  width: 500px;
+  height: auto;
+  margin-bottom: 200px;
+}
+.year {
+  opacity: 0.7;
+  font-weight: 400;
+}
+.movie-desc {
+  opacity: 0.7;
+}
+.comment-input {
+  width: 300px;
+  padding: 10px;
+  margin-bottom: 10px;
+}
+
+.comment-button {
+  height: 38px;
+  padding: 10px 20px;
+  background-color: #007bff;
+  color: #fff;
+  border: none;
+  cursor: pointer;
+}
+.comment {
+  display: flex;
+  align-items: center;
+  margin-bottom: 10px;
+}
+
+.user-icon {
+  font-size: 24px;
+  margin-right: 10px;
+}
+
+.comment-text {
+  padding: 15px;
+  border: 1px solid #ccc;
+  border-radius: 5px;
+}
